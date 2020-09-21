@@ -37,5 +37,9 @@ while True:
   if user_response.upper() == 'HATE SPORTS':
     break
 
- 
+  
+  bot_response = nba_finals_bot_response(user_response)
+  print(bot_response)
+
+
 
