@@ -30,4 +30,12 @@ print("Welcome to ya Finals Pick Bot")
 
 user_response = ""
 
+while True:
+  user_response = input("Who is your NBA Finals pick? ")
+  
+  # Quits program when user responds with 'done'
+  if user_response.upper() == 'HATE SPORTS':
+    break
+
+ 
 
