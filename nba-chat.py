@@ -25,4 +25,9 @@ def nba_finals_bot_response(user_response):
 
 
 
+print("Welcome to ya Finals Pick Bot")
+# print("Who is your NBA Finals pick?")
+
+user_response = ""
+
 
